@@ -3,7 +3,7 @@
 
 ## General info
 
-:boom: An application for the administration of statistics with three variants of the answer: good, neutral and bad.
+:boom: A keyword image search app.
 
 
 
